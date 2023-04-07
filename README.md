@@ -12,7 +12,7 @@
       大家根据自己的平台下载对应的安装程序，这里以群晖为例。下载好后到群晖套件中心，手动安装，选择安装包进行安装。
 
 # 2.下载破解文件
-将库里的[emby-happy4.7.11.0.sh](https://github.com/skysolf/emby_4.7.11.0/blob/main/emby-happy4.7.11.0.sh%20%22emby-happy4.7.11.0.sh%22) 和 [emby-happy.tar](https://github.com/skysolf/emby_4.7.11.0/blob/main/emby-happy.tar%20%22emby-happy.tar%22) 下载到你群晖任意目录下，如果非群晖用户，则需要您自己手动修改emby-happy4.7.11.0.sh，拷贝目录以你系统安装emby目录为准。
+将库里的[emby-happy4.7.11.0.sh](https://github.com/skysolf/emby_4.7.11.0/blob/main/emby-happy4.7.11.0.sh) 和 [emby-happy.tar](https://github.com/skysolf/emby_4.7.11.0/blob/main/emby-happy.tar) 下载到你群晖任意目录下，如果非群晖用户，则需要您自己手动修改emby-happy4.7.11.0.sh，拷贝目录以你系统安装emby目录为准。
 
 # 3.通过ssh连接你的nas，并到下载文件的目录运行脚本
 ```bash
